@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : Community Market - Buy Local, Shop Smart
     description                           : Explore a world of unique products from your area.
-    fontawesome_icon_name                 : magnifying-glass-dollar
+    fontawesome_icon_name                 : magnifying-glass
 
   - title                                 : Connect and Communicate - Your Local Marketplace Chat
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
@@ -53,7 +53,7 @@ features                                  :
 
   - title                                 : Get the Best Deals on Ripple
     description                           : Uncover Hidden Gems in Our Marketplace Listings.
-    fontawesome_icon_name                 : badge-check
+    fontawesome_icon_name                 : badge
   
   - title                                 : Get a Clear Picture of Your Sales
     description                           : Keep Track of Your Sales and Optimize Your Business with Advanced Analytics.
@@ -87,7 +87,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#6C63FF"
+feature_icons_foreground_color            : "#615ae6"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
