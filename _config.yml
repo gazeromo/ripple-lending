@@ -35,15 +35,15 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Hyperlocal: Buy & Sell with Your Community
+  - title                                 : Hyperlocal - Buy & Sell with Your Community
     description                           : Find unique products from local sellers near you.
     fontawesome_icon_name                 : magic
     
-  - title                                 : Community Market: Buy Local, Shop Smart
+  - title                                 : Community Market - Buy Local, Shop Smart
     description                           : Explore a world of unique products from your area.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Connect and Communicate: Your Local Marketplace Chat
+  - title                                 : Connect and Communicate - Your Local Marketplace Chat
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
     fontawesome_icon_name                 : play-circle
 
@@ -59,7 +59,7 @@ features                                  :
     description                           : Keep Track of Your Sales and Optimize Your Business with Advanced Analytics.
     fontawesome_icon_name                 : star
 
-  - title                                 : Discover Your Match: Effortless Listing Filtering at Its Best
+  - title                                 : Discover Your Match - Effortless Listing Filtering at Its Best
     description                           : 
     fontawesome_icon_name                 : arrow-alt-circle-down
 
