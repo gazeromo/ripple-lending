@@ -128,3 +128,8 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+# Plugins
+
+plugins:
+  - jekyll-seo-tag
