@@ -25,7 +25,7 @@ your_link                                 :
 your_city                                 : New York                                
 email_address                             : gazeromo@icloud.com
 facebook_username                         :                                           
-instagram_username                        : the3ripple
+instagram_username                        : therippleport
 twitter_username                          : 
 github_username                           : github.com/gazeromo
 youtube_username                          :
@@ -72,7 +72,7 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#615ae6"
-cover_overlay_transparency                : 0.5
+cover_overlay_transparency                : 0.3
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
