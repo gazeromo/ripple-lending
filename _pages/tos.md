@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terms of Service
-include_in_header: false
+include_in_header: true
 ---
 
 # Ripple App End User License Agreement
