@@ -9,7 +9,7 @@ February 6 2023
 
 # Privacy Policy
 
-Kim Vladislav built the Ripple app as a Free app. This SERVICE is provided by Kim Vladislav at no cost and is intended for use as is.
+Kim Vladislav (iOS Developer) built the Ripple app as a Free app. This SERVICE is provided by Kim Vladislav (iOS Developer) at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -79,4 +79,4 @@ This policy is effective as of 2023-02-06
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact me at gazeromo@icloud.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact me at sales@rippleport.com.
